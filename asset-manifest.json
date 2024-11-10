@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/manohar285/spinwin.git/static/css/main.1b4fd41e.css",
+    "main.js": "/manohar285/spinwin.git/static/js/main.7394fae2.js",
+    "index.html": "/manohar285/spinwin.git/index.html",
+    "main.1b4fd41e.css.map": "/manohar285/spinwin.git/static/css/main.1b4fd41e.css.map",
+    "main.7394fae2.js.map": "/manohar285/spinwin.git/static/js/main.7394fae2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1b4fd41e.css",
+    "static/js/main.7394fae2.js"
+  ]
+}
